@@ -18,4 +18,4 @@ An interactive dashboard to analyze sales, profit, and quantity across regions, 
 - Sales trends show quarterly cycles
 
 ## 📷 Preview
-<img src="dashboard.png" width="850px" height="600px" alt="Dashboard Img">
+<img src="dashboard.png" width="3000px" height="1000px" alt="Dashboard Img">
